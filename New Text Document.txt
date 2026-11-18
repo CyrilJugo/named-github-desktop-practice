@@ -6,3 +6,4 @@ About Me:
 I am an Information Technology student.
 I am learning programming and GitHub.
 My hobbies are gaming and learning new technologies.
+My goal is to become a skilled IT professional.
